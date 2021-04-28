@@ -6,6 +6,14 @@
   align-items: flex-end;
 }
 
+@media (min-width: 425px) {
+  .header {
+    padding-top: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
 @media (min-width: 768px) {
   .header {
     padding-top: 28px;

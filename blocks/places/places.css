@@ -1,0 +1,32 @@
+.places {
+  padding: 64px 0 64px;
+  display: grid;
+  gap: 50px;
+}
+
+@media (min-width: 425px) {
+  .places {
+    padding: 80px 0 80px;
+    gap: 62px;
+  }
+}
+
+@media (min-width: 768px) {
+  .places {
+    padding: 90px 24px 90px;
+    gap: 73px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .places {
+    padding: 90px 48px 90px;
+    gap: 80px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .places {
+    padding: 90px 148px 90px;
+  }
+}
