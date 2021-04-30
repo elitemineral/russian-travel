@@ -4,10 +4,12 @@
 
   font-size: 18px;
   line-height: 20px;
+  transition: opacity linear .2s;
 }
 
 .header__lang-link:hover {
   cursor: pointer;
+  opacity: .8;
 }
 
 @media (min-width: 425px) {

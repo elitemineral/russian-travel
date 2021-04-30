@@ -2,8 +2,10 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
+  transition: opacity linear .2s;
 }
 
 .place__link:hover {
   cursor: pointer;
+  opacity: .8;
 }

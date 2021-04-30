@@ -3,10 +3,12 @@
   text-decoration: none;
   font-size: 24px;
   line-height: 24px;
+  transition: opacity linear .2s;
 }
 
 .footer__service-link:hover {
   cursor: pointer;
+  opacity: .8;
 }
 
 @media (min-width: 768px) {
