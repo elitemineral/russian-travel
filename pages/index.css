@@ -52,3 +52,10 @@
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__overlay/cover__overlay.css');
+
+/* footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__services/footer__services.css');
+@import url('../blocks/footer/__service/footer__service.css');
+@import url('../blocks/footer/__service-link/footer__service-link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');

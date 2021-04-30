@@ -3,7 +3,7 @@
   height: calc(100vw / 1.6);
   max-height: 740px;
   margin: auto;
-  background: url('../../images/cover-trains.jpg') center / cover no-repeat;
+  background: url('../../images/cover-trains.jpg') top left / cover no-repeat;
 
   position: relative;
 }
