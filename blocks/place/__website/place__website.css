@@ -1,21 +1,9 @@
 .place__website {
-  padding: 0 24px 0;
+  padding: 0 16px 0;
   align-self: end;
 }
 
 @media (min-width: 768px) {
-  .place__website {
-    padding: 0;
-  }
-}
-
-@media (min-width: 1024px) {
-  .place__website {
-    padding: 0;
-  }
-}
-
-@media (min-width: 1280px) {
   .place__website {
     padding: 0;
   }

@@ -1,18 +1,19 @@
 .place {
   display: grid;
-  row-gap: 32px;
+  row-gap: 30px;
 }
 
 @media (min-width: 768px) {
   .place {
     grid-template-columns: repeat(2, 1fr);
-    row-gap: 48px;
+    row-gap: 45px;
     column-gap: 28px;
   }
 }
 
 @media (min-width: 1024px) {
   .place {
+    row-gap: 48px;
     column-gap: 32px;
   }
 }
