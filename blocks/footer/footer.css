@@ -3,12 +3,6 @@
   margin: 0 auto;
 }
 
-@media (min-width: 425px) {
-  .footer {
-    padding-top: 80px;
-  }
-}
-
 @media (min-width: 768px) {
   .footer {
     padding: 90px 24px 24px;

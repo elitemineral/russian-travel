@@ -1,4 +1,4 @@
-.footer__services {
+.footer__links {
   padding: 0;
   margin: 0 0 48px;
   display: flex;
@@ -7,7 +7,7 @@
 }
 
 @media (min-width: 768px) {
-  .footer__services {
+  .footer__links {
     margin: 0;
     flex-direction: row;
   }
