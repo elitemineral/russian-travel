@@ -1,7 +1,6 @@
 .header__logo {
   width: 142px;
   height: 42px;
-  background: url('../../../images/header-logo.svg') top left / contain no-repeat;
 }
 
 @media (min-width: 425px) {
